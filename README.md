@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santhiya
-- 👀 I’m interested in Python coding
-- 🌱 I’m currently Fresher
-- 💞️ I’m looking to collaborate with ....
+- 👀 I’m interested in Front end development
+- 🌱 I’m currently 2020 passed out
+- 💞️ I’m looking to collaborate with applications....
 - 📫 How to reach me - santhiya1999k@gmail.com
 
 <!---
